@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 2020-OSS team 6
-  tagline: Developer. Designer
+  tagline: 
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
