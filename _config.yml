@@ -16,7 +16,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
+  title: OSS 6
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
