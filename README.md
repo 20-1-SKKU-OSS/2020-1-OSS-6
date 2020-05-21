@@ -1,5 +1,8 @@
 # TEAM 6  
-## HOME_PAGE
+- [HOME_PAKE](#HOME_PAGE)
+- [About project](#project)
+- [Tests](#test)
+## <div id="HOME_PAGE">HOME_PAGE</div>
 https://20-1-skku-oss.github.io/2020-1-OSS-6/  
   
 ## 팀원 정보 및 선정 커뮤니티 활동 방법  
