@@ -27,10 +27,10 @@ GitHub ID:
 GitHub ID: Qayin-PJS  
   
   
-이름:   
-학번:   
-이메일:   
-GitHub ID:   
+이름: 옥영민   
+학번: 2016311322  
+이메일: lemonlizok@gmail.com   
+GitHub ID: lemonok  
   
 이름:   
 학번:   
