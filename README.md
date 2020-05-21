@@ -1,6 +1,5 @@
 # TEAM 6  
-## Project A: Algorithms  
-## Project B: animate.css  
+## HOME_PAGE
   
   
 ## 팀원 정보 및 선정 커뮤니티 활동 방법  
@@ -31,8 +30,13 @@ GitHub ID:
 학번:   
 이메일:   
 GitHub ID:   
-  
+
+# 프로젝트 소개
+## Project A: Algorithms  
+## Project B: animate.css  
+
 ## 활동방법  
+
   
   
 ## 커뮤니티 활동 계획 정리  
