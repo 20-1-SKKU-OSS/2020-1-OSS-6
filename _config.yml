@@ -11,7 +11,8 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: 2020-OSS team 6 # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: ![SymbolMark](https://user-images.githubusercontent.com/48412325/82548125-c5d93400-9b95-11ea-9900-f2260a879828.jpg)
+ # add your photo
 about-author: SKKU OSS Team 6 project # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
