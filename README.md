@@ -1,6 +1,6 @@
 # TEAM 6  
 ## HOME_PAGE
-  
+https://20-1-skku-oss.github.io/2020-1-OSS-6/  
   
 ## 팀원 정보 및 선정 커뮤니티 활동 방법  
 ### 팀장  
