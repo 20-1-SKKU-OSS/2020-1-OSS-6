@@ -11,10 +11,11 @@
 GitHub ID: 
 
 ### 팀원
-이름: 박재성
+이름: 박재성 <br>
 학번: 2019314505
 이메일: v37794@g.skku.edu
 GitHub ID: Qayin-PJS
+
 
 이름: 
 학번: 
