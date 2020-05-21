@@ -1,6 +1,6 @@
 # TEAM 6  
 ## Project A: Algorithms  
-## Project B: Algorithms  
+## Project B: animate.css  
   
   
 ## 팀원 정보 및 선정 커뮤니티 활동 방법  
