@@ -32,10 +32,10 @@ GitHub ID: Qayin-PJS
 이메일: lemonlizok@gmail.com   
 GitHub ID: lemonok  
   
-이름:   
-학번:   
-이메일:   
-GitHub ID:   
+이름: 민경민   
+학번: 2017314309   
+이메일: andy9705@naver.com  
+GitHub ID: andy9705  
   
 이름:   
 학번:   
@@ -76,10 +76,14 @@ GitHub ID:
 > 모션 customize  
 > 코드 테스팅 및 버그 수정   
 > 문서작성  
-> 테마 설정 및 디자인 수정  
-**팀원: ~~~**  
-  
-  
+> 테마 설정 및 디자인 수정
+
+**팀원: 민경민**  
+>알고리즘 코드 추가  
+>기존 알고리즘 코드 간략화 
+>버그 수정 및 test case 추가
+>c++로 구현된 코드를 python으로 구현
+>문서 한글화
 
 **팀원: ~~~**  
   
