@@ -46,7 +46,7 @@ GitHub ID:
 ### <div id="project_A">Project A: Algorithms</div>
 ### <div id="project_B">Project B: animate.css</div>
 
-Animate.css는 웹 프로젝트에서 사용할 수 있는 브라우저 애니메이션 라이브러리입니다.
+Animate.css는 웹 프로젝트에서 사용할 수 있는 브라우저 애니메이션 라이브러리입니다.<br>
 슬라이더, 강조 및 주의를 끄는 움직임을 표현하는데 적합합니다.
 
 ## 설치방법
