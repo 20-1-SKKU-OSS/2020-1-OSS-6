@@ -38,8 +38,8 @@ GitHub ID: lemonok
 GitHub ID: andy9705  
   
 이름: 정주원   
-학번: 2019312351
-이메일: juwon1226@naver.com
+학번: 2019312351   
+이메일: juwon1226@naver.com   
 GitHub ID: ChungJuwon
 
 ## <div id="about_project">프로젝트 소개</div>
