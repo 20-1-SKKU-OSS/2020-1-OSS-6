@@ -64,16 +64,16 @@ yarn add animate.css
 ```
 ## 기능
 
-**Attention seekers**
+**Attention seekers**<br>
 bounce, flash, pulse, rubberBand, shakeX, headShake, swing, tada, wobble, jello, heartBeat
 
-**Back entrances**
+**Back entrances**<br>
 backInDown, backInLeft, backInRight, backInUp
 
-**Back exits**
+**Back exits**<br>
 backOutDown, backOutLeft, backOutRight, backOutUp
 
-**Bouncing exits**
+**Bouncing exits**<br>
 bounceOut, bounceOutDown, bounceOutLeft, bounceOutRight, bounceOutUp
 
 ## 사용법
@@ -83,8 +83,8 @@ bounceOut, bounceOutDown, bounceOutLeft, bounceOutRight, bounceOutUp
 ## License
 
 Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT> 에 있습니다.
-
-
+<br>
+<br>
 
 ## <div id="HowToDo">활동방법</div>
 
