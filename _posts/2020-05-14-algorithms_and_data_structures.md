@@ -6,3 +6,11 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: how-to-start.jpg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
+
+다양한 알고리즘과 자료구조를 소개하고, 그들을 활용한 문제와 솔루션을 제공하는 프로젝트입니다.
+
+| Current Status|     Stats     |
+| :------------: | :----------: |
+| Total C++ Problems | 188 |
+| Total Python Problems | 15 |
+| Current Daily Streak| 11 |
