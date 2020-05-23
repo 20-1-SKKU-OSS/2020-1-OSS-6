@@ -44,6 +44,16 @@ GitHub ID:
 
 ## <div id="about_project">프로젝트 소개</div>
 ### <div id="project_A">Project A: Algorithms</div>
+
+다양한 알고리즘과 자료구조를 소개하고, 그들을 활용한 문제와 솔루션을 제공하는 프로젝트입니다.
+
+| Current Status|     Stats     |
+| :------------: | :----------: |
+| Total C++ Problems | 188 |
+| Total Python Problems | 15 |
+| Current Daily Streak| 11 |
+
+
 ### <div id="project_B">Project B: animate.css</div>
 
 Animate.css는 웹 프로젝트에서 사용할 수 있는 브라우저 애니메이션 라이브러리입니다.<br>
