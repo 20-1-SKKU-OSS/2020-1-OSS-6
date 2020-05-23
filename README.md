@@ -15,10 +15,10 @@ https://20-1-skku-oss.github.io/2020-1-OSS-6/
   
 ## <div id="Members">팀원 정보 및 선정 커뮤니티 활동 방법</div>  
 ### 팀장  
-이름:  
-학번:  
-이메일:    
-GitHub ID:   
+이름: 천진우
+학번:  2015312810
+이메일:  czw4653@naver.com
+GitHub ID:  jinwoo-chun
   
 ### 팀원  
 이름: 박재성   
@@ -57,8 +57,15 @@ GitHub ID:
 15주차 :  
   
 ## <div id="WhatToDo">개인별 기여방법</div>
-**팀장: ~~~**  
->  
+**팀장: 천진우**  
+
+> 새로운 알고리즘 추가 구현
+> 기존 코드 테스팅
+> 오류/버그 수정
+> 새로운 문제 작성과 솔루션 작성
+> animate.css의 기존 issue 해결
+> 새로운 동작 기능 추가
+> 문서 작성
   
   
 **팀원: 박재성**  
@@ -71,6 +78,7 @@ GitHub ID:
 > readme 수정  
   
 **팀원: 옥영민**  
+
 > 힙소트 알고리즘(max & min) 추가  
 > 알고리즘 시간 복잡도 계산 추가  
 > 모션 customize  
