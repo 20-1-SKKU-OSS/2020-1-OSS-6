@@ -135,7 +135,10 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
   
   
 ## <div id="plan">커뮤니티 활동 계획</div>
-12주차 :   
+9주차 : 팀프로젝트 선정, 개인별 기여방식 논의
+10주차 : 팀 static page 생성, 프로젝트별 소개 페이지 작성
+11주차 : 선정 프로젝트 소개, 프로젝트 활동 방법과 계획 정리, 팀원별 역할 및 활동 정리, static page 업데이트
+12주차 : 
 13주차 :   
 14주차 :   
 15주차 :  
