@@ -15,7 +15,7 @@ tags: [Programming, Learn] # add tag
 | Total Python Problems | 15 |
 | Current Daily Streak| 11 |
 
-##구현된 문제들##
+
 
 ### LinkedList Problems
 | Problem |
@@ -59,110 +59,110 @@ Include contains single header implementation of data structures and some algori
 
 ### Bit Manipulation Problems
 
-| Problem | Solution |
-| :------------ | :----------: |
-| Determine if a number is a power of 2. | [power_of_2.cpp](bit_manipulation/power_of_2.cpp) |
-| Add two binary number represented as string. | [addBin.cpp](bit_manipulation/addBin.cpp) |
-| Determine the next power of 2 for a given number. | [next_power_of_2.cpp](bit_manipulation/next_power_of_2.cpp) |
-| Using bit manipulation determine if a number is multiple of 3. | [multiple_of_3.cpp](bit_manipulation/multiple_of_3.cpp) |
-| Determine endianess of the machine, print a number in reverse Endianess. | [reverseEndianness.cpp](bit_manipulation/reverseEndianness.cpp) |
-| Find the parity of given number. | [find_parity.cpp](bit_manipulation/find_parity.cpp) |
-| Implement fast multiplication of a number to 7 using bit manipulation. | [multiply_by_7.cpp](bit_manipulation/multiply_by_7.cpp) |
-| Reverse bits of unsigned integer (two methods - Reversing bit by bit & divide and conquer). | [reverseBitsOfAnInteger.cpp](bit_manipulation/reverseBitsOfAnInteger.cpp) |
-| Small function to determine position of right most set bit in a given integer.| [right_most_set_bit.cpp](bit_manipulation/right_most_set_bit.cpp)| 
-|Given a vector of numbers, only one number occurs odd number of times, find the number.| [find_odd_one_out.cpp](bit_manipulation/find_odd_one_out.cpp)|
-| Given two integers, determine if their sum would be interger overflow.| [integerOverflow.cpp](bit_manipulation/integerOverflow.cpp)|
-| How many bit flip operation would require to convert number A to B. | [countNumberOfBitFlips.cpp](bit_manipulation/countNumberOfBitFlips.cpp)|
-| Given a number x and two positions (from right side) in binary representation of x, write a function that swaps n right bits at given two positions and returns the result. It is also given that the two sets of bits do not overlap.|[swapSetOfBits.cpp](bit_manipulation/swapSetOfBits.cpp)|
-| Add two numbers without using any arithmetic operators | [addition_without_operators.cpp](bit_manipulation/addition_without_operators.cpp)|
-|Louise and Richard play a game. They have a counter set to N. Louise gets the first turn and the turns alternate thereafter. In the game, they perform the following operations: <ul><li>If N is not a power of 2, reduce the counter by the largest power of 2 less than N.</li></ul><ul><li>If N is a power of 2, reduce the counter by half of N.</li></ul> The resultant value is the new N which is again used for subsequent operations.The game ends when the counter reduces to 1, i.e., N == 1, and the last person to make a valid move wins. <ul><li> Given N, your task is to find the winner of the game. If they set counter to 1, Richard wins, because its Louise' turn and she cannot make a move.</li></ul><ul><li>Input Format : -The first line contains an integer T, the number of testcases. T lines follow. Each line contains N, the initial number set in the counter.</ul></li> |[counter_game.cpp](bit_manipulation/counter_game.cpp)|
-|Determine if two integers are of opposite signs.|[check_opposite_signs.cpp](bit_manipulation/check_opposite_signs.cpp)|
-|Swap two bits at position p and q of a given integer.| [swapBits.cpp](bit_manipulation/swapBits.cpp)|
-|Check if a number is power of 4. | [check_if_power_of_4.cpp](bit_manipulation/check_if_power_of_4.cpp)|
+| Problem |
+| :------------ |
+| Determine if a number is a power of 2. |
+| Add two binary number represented as string. |
+| Determine the next power of 2 for a given number. |
+| Using bit manipulation determine if a number is multiple of 3. |
+| Determine endianess of the machine, print a number in reverse Endianess. |
+| Find the parity of given number. |
+| Implement fast multiplication of a number to 7 using bit manipulation. |
+| Reverse bits of unsigned integer (two methods - Reversing bit by bit & divide and conquer). |
+| Small function to determine position of right most set bit in a given integer.|
+|Given a vector of numbers, only one number occurs odd number of times, find the number.|
+| Given two integers, determine if their sum would be interger overflow.|
+| How many bit flip operation would require to convert number A to B. |
+| Given a number x and two positions (from right side) in binary representation of x, write a function that swaps n right bits at given two positions and returns the result. It is also given that the two sets of bits do not overlap.|
+| Add two numbers without using any arithmetic operators |
+|Louise and Richard play a game. They have a counter set to N. Louise gets the first turn and the turns alternate thereafter. In the game, they perform the following operations: <ul><li>If N is not a power of 2, reduce the counter by the largest power of 2 less than N.</li></ul><ul><li>If N is a power of 2, reduce the counter by half of N.</li></ul> The resultant value is the new N which is again used for subsequent operations.The game ends when the counter reduces to 1, i.e., N == 1, and the last person to make a valid move wins. <ul><li> Given N, your task is to find the winner of the game. If they set counter to 1, Richard wins, because its Louise' turn and she cannot make a move.</li></ul><ul><li>Input Format : -The first line contains an integer T, the number of testcases. T lines follow. Each line contains N, the initial number set in the counter.</ul></li> |
+|Determine if two integers are of opposite signs.|
+|Swap two bits at position p and q of a given integer.|
+|Check if a number is power of 4. |
 
 
 ### Cracking the coding interview problems
-| Problem | Solution |
-| :------------ | :----------: |
-| Problem 1-1 : Edition 6: Write an algorithm to determine whether a string has unique characters or not. Can we do it without using additional data structures? | [1-1-hasUniqueChars.cpp](cracking_the_coding_interview_problems/1-1-hasUniqueChars.cpp), [1-1-hasUniqueChars.py](cracking_the_coding_interview_problems/1-1-hasUniqueChars.py)|
-| Problem 1-2 : Edition 5: Reverse a string when you are a pass a null terminated C string.|[1-2-edi5-reverseString.cpp ](cracking_the_coding_interview_problems/1-2-edi5-reverseString.cpp)|
-| Problem 1-2 : Edition 6: Given two strings, determine if one is permutation of other.|[1-2-perm-strings.cpp](cracking_the_coding_interview_problems/1-2-perm-strings.cpp), [1-2-perm-strings.py](cracking_the_coding_interview_problems/1-2-perm-strings.py)|
-| Problem 1-3 : Edition 5: Write an algorithm to remove duplicate chars from a string.|[1-3-edi5-removeDuplicates.cpp](cracking_the_coding_interview_problems/1-3-edi5-removeDuplicates.cpp)|
-| Problem 1-3 : Edition 6: URLify: Replace all the spaces in a string with '%20'. Preferebly Inplace |[1-3-URLify.cpp](cracking_the_coding_interview_problems/1-3-URLify.cpp)|
-| Problem 1-4 : Edition 6: Given a string, write a function to check if it is a permutation of a pallindrome.|[1-4-pallindrome-permutations.cpp ](cracking_the_coding_interview_problems/1-4-pallindrome-permutations.cpp)|
-| Problem 1-5 : Edition 6: There are three possible edits that can be performed on a string - Insert a char, Delete a char, Replace a char. Given two strings, determine if they are one or 0 edit away.|[1-5-one-edit-away.cpp ](cracking_the_coding_interview_problems/1-5-one-edit-away.cpp)|
-| Problem 1-6: Implement a method to perform basic string compression. Example string **aabcccccaaa** should be compressed to **a2b1c5a3**, however if compressed string is bigger than original string, return original string| [1-6-string-compression.cpp](cracking_the_coding_interview_problems/1-6-string-compression.cpp)|
-| Problem 1-7: Rotate the matrix clockwise( & anticlockwise) by 90 degrees| [1-7-matrix-rotation.cpp](cracking_the_coding_interview_problems/1-7-matrix-rotation.cpp)|
-| Problem 1-8: Write an algorithm such that if an element of MxN matrix is 0, its entire row and column is set to 0. | [1-8-zero-matrix.cpp](cracking_the_coding_interview_problems/1-8-zero-matrix.cpp)|
-| Problem 1-9: Given two strings s1 and s2, determine s2 is rotation of s1 using only one call to a function which checks whether one string is rotation of another.|[1-9-string-rotation.cpp](cracking_the_coding_interview_problems/1-9-string-rotation.cpp)|
-| Problem 2-1: Remove duplicates from an *unsorted* linked list. What if no temporary buffer is allowed.|[2-1-remove-dups.cpp](cracking_the_coding_interview_problems/2-1-remove-dups.cpp)|
-| Problem 2-2: Determine k<sup>th</sup> node from the last of a singly linked list. (Iterative and Recursive Approaches) | [2-2-kthToLast.cpp](cracking_the_coding_interview_problems/2-2-kthToLast.cpp)|
-| Problem 2-3: Implement an algorithm to delete a node in the middle of a singly linked list | [2-3-delete-middle-node.cpp](cracking_the_coding_interview_problems/2-3-delete-middle-node.cpp)|
-| Problem 2-4: Partition a linked list around a value x, all the nodes smaller than x come before all the nodes greater than equal to x | [2-4-partition.cpp](cracking_the_coding_interview_problems/2-4-partition.cpp)|
-| Problem 2-5: You have two numberse represented by a linked list where each node contains a single digit. The digits are stored in reversed order, such that 1's digits are at the head of the list. Write a function that adds the two numbers and returns the sum as a linked list.Example:<ul><li>Input: ( 7 --> 1 --> 6 ) + ( 5 --> 9 --> 2 ) that is 617 + 295</li></ul><ul><li>Output: ( 2 --> 1 --> 9 ) i.e. 912.</li></ul><ul><li> FOLLOW UP : Suppose the lists are stored in forward order, Repeat the above problem.</ul></li><ul><li>Input: ( 6 --> 1 --> 7 ) + ( 2 --> 9 --> 5 ) i.e. 617 + 295</li></ul><ul><li> Output: ( 9 --> 1 --> 2 ) i.e. 912.</li></ul><ul><li>Implement it  recursively and iteratively.</li></ul> | [2-5-add-lists.cpp](cracking_the_coding_interview_problems/2-5-add-lists.cpp) |
-| Problem 2-6: Determine if linked list is palindrome( 2 iterative and one recursive approach | [2-6-palindrome.cpp](cracking_the_coding_interview_problems/2-6-palindrome.cpp) |
-| Problem 2-7: Determine if two singly linked list intersect, if yes, return the intersecting node. The intersection is defined based on reference not on values|[2-7-intersection.cpp](cracking_the_coding_interview_problems/2-7-intersection.cpp)|
-| Problem 2-8: Detect if the linked list have a loop, Find the start node of the loop and remove the loop| [2-8-loop-detection.cpp](cracking_the_coding_interview_problems/2-8-loop-detection.cpp)
+| Problem |
+| :------------ |
+| Problem 1-1 : Edition 6: Write an algorithm to determine whether a string has unique characters or not. Can we do it without using additional data structures? |
+| Problem 1-2 : Edition 5: Reverse a string when you are a pass a null terminated C string.|
+| Problem 1-2 : Edition 6: Given two strings, determine if one is permutation of other.|
+| Problem 1-3 : Edition 5: Write an algorithm to remove duplicate chars from a string.|
+| Problem 1-3 : Edition 6: URLify: Replace all the spaces in a string with '%20'. Preferebly Inplace |
+| Problem 1-4 : Edition 6: Given a string, write a function to check if it is a permutation of a pallindrome.|
+| Problem 1-5 : Edition 6: There are three possible edits that can be performed on a string - Insert a char, Delete a char, Replace a char. Given two strings, determine if they are one or 0 edit away.|
+| Problem 1-6: Implement a method to perform basic string compression. Example string **aabcccccaaa** should be compressed to **a2b1c5a3**, however if compressed string is bigger than original string, return original string|
+| Problem 1-7: Rotate the matrix clockwise( & anticlockwise) by 90 degrees|
+| Problem 1-8: Write an algorithm such that if an element of MxN matrix is 0, its entire row and column is set to 0. |
+| Problem 1-9: Given two strings s1 and s2, determine s2 is rotation of s1 using only one call to a function which checks whether one string is rotation of another.|
+| Problem 2-1: Remove duplicates from an *unsorted* linked list. What if no temporary buffer is allowed.|
+| Problem 2-2: Determine k<sup>th</sup> node from the last of a singly linked list. (Iterative and Recursive Approaches) |
+| Problem 2-3: Implement an algorithm to delete a node in the middle of a singly linked list |
+| Problem 2-4: Partition a linked list around a value x, all the nodes smaller than x come before all the nodes greater than equal to x |
+| Problem 2-5: You have two numberse represented by a linked list where each node contains a single digit. The digits are stored in reversed order, such that 1's digits are at the head of the list. Write a function that adds the two numbers and returns the sum as a linked list.Example:<ul><li>Input: ( 7 --> 1 --> 6 ) + ( 5 --> 9 --> 2 ) that is 617 + 295</li></ul><ul><li>Output: ( 2 --> 1 --> 9 ) i.e. 912.</li></ul><ul><li> FOLLOW UP : Suppose the lists are stored in forward order, Repeat the above problem.</ul></li><ul><li>Input: ( 6 --> 1 --> 7 ) + ( 2 --> 9 --> 5 ) i.e. 617 + 295</li></ul><ul><li> Output: ( 9 --> 1 --> 2 ) i.e. 912.</li></ul><ul><li>Implement it  recursively and iteratively.</li></ul> |
+| Problem 2-6: Determine if linked list is palindrome( 2 iterative and one recursive approach |
+| Problem 2-7: Determine if two singly linked list intersect, if yes, return the intersecting node. The intersection is defined based on reference not on values|
+| Problem 2-8: Detect if the linked list have a loop, Find the start node of the loop and remove the loop|
 
 ### Dynamic Programming Problems
-| Problem | Solution |
-| :------------ | :----------: |
-| N<sup>th</sup> Fibonacci term using different memoization techniques | [fibonacci.cpp](dynamic_programming_problems/fibonacci.cpp)|
-| Longest Common Subsequence Problem | [lcs.cpp](dynamic_programming_problems/lcs.cpp), [longest_common_subsequence.py](dynamic_programming_problems/longest_common_subsequence.py) |
-| Maximum Value Contigous Subsequence Problem [wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)| [max_subsequence.cpp](dynamic_programming_problems/max_subsequence.cpp)|
-| Catalan number - Count the number of possible Binary Search Trees with n keys | [catalan_number.cpp](dynamic_programming_problems/catalan_number.cpp)|
-| Calculate the number of unique paths from source origin (0, 0) to  destination (m-1, n-1) in a m x n grid. You can only move either in down or right direction.|[unique_paths.cpp](dynamic_programming_problems/unique_paths.cpp)|
-| 0-1 Knapsack Problem: Imagine you are a thief and you want to steal things with room full of things. You have a knapsack which can handle maximum capacity of weight W, and you want to fill it up such that it's worth is maximum. Being an intelligent thief, you know weights and values of each item in room. How would you fill your knapsack, such that you get the maximum possible value, such that you can only fill upto capacity W.|[0_1_knapsack_problem.cpp](dynamic_programming_problems/0_1_knapsack_problem.cpp)|
+| Problem |
+| :------------ |
+| N<sup>th</sup> Fibonacci term using different memoization techniques |
+| Longest Common Subsequence Problem |
+| Maximum Value Contigous Subsequence Problem [wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)|
+| Catalan number - Count the number of possible Binary Search Trees with n keys |
+| Calculate the number of unique paths from source origin (0, 0) to  destination (m-1, n-1) in a m x n grid. You can only move either in down or right direction.|
+| 0-1 Knapsack Problem: Imagine you are a thief and you want to steal things with room full of things. You have a knapsack which can handle maximum capacity of weight W, and you want to fill it up such that it's worth is maximum. Being an intelligent thief, you know weights and values of each item in room. How would you fill your knapsack, such that you get the maximum possible value, such that you can only fill upto capacity W.|
 
 ### Tree Problems
-| Problem | Solution |
-| :------------ | :----------: |
-|Iterative Level order traversal of Tree using queue |[levelOrderTraversalIterative.cpp](tree_problems/levelOrderTraversalIterative.cpp), [level_order_tree_traversal_iterative.py](tree_problems/level_order_tree_traversal_iterative.py)|
-|Recursive Level order traveral of Tree | [levelOrderTraversalRecursive.cpp](tree_problems/levelOrderTraversalRecursive.cpp), [level_order_tree_traversal_recursive.py](tree_problems/level_order_tree_traversal_recursive.py)|
-|ZigZag Traversal of Tree | [zigZagTraversal.cpp](tree_problems/zigZagTraversal.cpp), [zig_zag_traversal.py](tree_problems/zig_zag_traversal.py)|
-|Predecessor and Successor of a given node in Binary Search Tree | [predecessorSuccessor.cpp](tree_problems/predecessorSuccessor.cpp)|
-|Given values of two nodes in a Binary Search Tree, find the Lowest Common Ancestor (LCA). Assume that both the values exist in the tree.| [lowest-common-ancestor.cpp](tree_problems/lowest-common-ancestor.cpp), [lowest_common_ancestor.py](tree_problems/lowest_common_ancestor.py)|
-|Given a binary tree (unlike binary search tree), find the Lowest Common Ancestor (LCA).|[lowest-common-ancestor-binary-tree.cpp](tree_problems/lowest-common-ancestor-binary-tree.cpp)|
-|Given a binary tree, print out all of its root-to-leaf paths one per line.| [printAllRootToLeafPath.cpp](tree_problems/printAllRootToLeafPath.cpp)
-|Determine if a tree is sum tree. A SumTree is a Binary Tree where the value of a node is equal to sum of the nodes present in its left subtree and right subtree. An empty tree is SumTree and sum of an empty tree can be considered as 0. A leaf node is also considered as SumTree.| [sumTree.cpp](tree_problems/sumTree.cpp)|
-|Convert a tree to sumTree, such that each node is sum of left and right subtree of the original tree.| [convert_to_sum_tree.cpp](tree_problems/convert_to_sum_tree.cpp), [convert_to_sum_tree.py](tree_problems/convert_to_sum_tree.py)|
-| Convert a sorted array to balanced binary search tree.| [sortedArrayToBST.cpp](tree_problems/sortedArrayToBST.cpp)|
-| Given a binary tree, generate sum of each vertical column.|[verticalSum.cpp](tree_problems/verticalSum.cpp)|
-| Given a binary tree and key, node with key exists in tree. Find all the ancestors of the node with key, ancestor here are the nodes which are in straight path from node to root.| [node_ancestors_in_root_path.cpp](tree_problems/node_ancestors_in_root_path.cpp)|
-| Given a binary tree and key, return the level of the node with key. Root is at level 1, and if node with key does not exists in tree, return 0| [level_of_node.cpp](tree_problems/level_of_node.cpp)|
-| Given a binary tree, find all the paths from root to nodes, whose sum is k. | [k_sum_paths.cpp](tree_problems/k_sum_paths.cpp)|
-| Given a binary tree, print its nodes level by level in reverse order. i.e. all nodes present at last level should be printed first followed by nodes of second-last level and so on.. All nodes for any level should be printed from left to right. | [reverseLevelOrderTraversal.cpp](tree_problems/reverseLevelOrderTraversal.cpp) |
-| Invert a binary tree, recursively and iteratively.| [invert_a_tree.cpp](tree_problems/invert_a_tree.cpp) |
-| Given a Binary Search Tree, find ceil and floor of a given key in it. If the given key lie in the BST, then both floor and ceil is equal to that key, else ceil is equal to next greater key (if any) in the BST and floor is equal to previous greater key (if any) in the BST | [floor_ceil_bst.cpp](tree_problems/floor_ceil_bst.cpp) |
-| Find kth smallest element in a binary search tree | [kth_smallest.cpp](tree_problems/kth_smallest.cpp)|
-| Validate if a given binary tree is a binary search tree. | [validate_bst.cpp](tree_problems/validate_bst.cpp) |
-| Given a Binary Search Tree and a target number, return true if there exist two elements in the BST such that their sum is equal to the given target.| [find_target_k.cpp](tree_problems/find_target_k.cpp) |
-| Given a non-empty binary search tree and a target value, find the value in the BST that is closest to the target. Also, to note that the target value is a floating point. There will be only one unique value which is closest to the target. |[closest_bst_value.cpp](tree_problems/closest_bst_value.cpp), [closest_bst_value.py](tree_problems/closest_bst_value.py) |
-| Given a binary tree, traversing preorder, construct a string output containing node values and parenthesis. The null node needs to be represented by empty parenthesis pair "()". And you need to omit all the empty parenthesis pairs that don't affect the one-to-one mapping relationship between the string and the original binary tree. Examples in code file| [string_from_tree.cpp](tree_problems/string_from_tree.cpp)|
+| Problem |
+| :------------ |
+|Iterative Level order traversal of Tree using queue |
+|Recursive Level order traveral of Tree |
+|ZigZag Traversal of Tree |
+|Predecessor and Successor of a given node in Binary Search Tree |
+|Given values of two nodes in a Binary Search Tree, find the Lowest Common Ancestor (LCA). Assume that both the values exist in the tree.|
+|Given a binary tree (unlike binary search tree), find the Lowest Common Ancestor (LCA).|
+|Given a binary tree, print out all of its root-to-leaf paths one per line.|
+|Determine if a tree is sum tree. A SumTree is a Binary Tree where the value of a node is equal to sum of the nodes present in its left subtree and right subtree. An empty tree is SumTree and sum of an empty tree can be considered as 0. A leaf node is also considered as SumTree.|
+|Convert a tree to sumTree, such that each node is sum of left and right subtree of the original tree.|
+| Convert a sorted array to balanced binary search tree.|
+| Given a binary tree, generate sum of each vertical column.|
+| Given a binary tree and key, node with key exists in tree. Find all the ancestors of the node with key, ancestor here are the nodes which are in straight path from node to root.|
+| Given a binary tree and key, return the level of the node with key. Root is at level 1, and if node with key does not exists in tree, return 0|
+| Given a binary tree, find all the paths from root to nodes, whose sum is k. |
+| Given a binary tree, print its nodes level by level in reverse order. i.e. all nodes present at last level should be printed first followed by nodes of second-last level and so on.. All nodes for any level should be printed from left to right. | 
+| Invert a binary tree, recursively and iteratively.|
+| Given a Binary Search Tree, find ceil and floor of a given key in it. If the given key lie in the BST, then both floor and ceil is equal to that key, else ceil is equal to next greater key (if any) in the BST and floor is equal to previous greater key (if any) in the BST |
+| Find kth smallest element in a binary search tree |
+| Validate if a given binary tree is a binary search tree. |
+| Given a Binary Search Tree and a target number, return true if there exist two elements in the BST such that their sum is equal to the given target.|
+| Given a non-empty binary search tree and a target value, find the value in the BST that is closest to the target. Also, to note that the target value is a floating point. There will be only one unique value which is closest to the target. |
+| Given a binary tree, traversing preorder, construct a string output containing node values and parenthesis. The null node needs to be represented by empty parenthesis pair "()". And you need to omit all the empty parenthesis pairs that don't affect the one-to-one mapping relationship between the string and the original binary tree. Examples in code file|
 
 ### String Problems
-| Problem | Solution |
-| :------------ | :----------: |
-| Implementation of Robin-Karp algorithm for string search | [robinKarpStringMatching.cpp](string_problmes/robinKarpStringMatching.cpp) |
-| Find next permutation of a given string, ie. rearrange the given string sucht a way that is next lexicographically greater string than given string | [next_permutation.cpp](string_problems/next_permutation.cpp)|
-| Implementation of Z algorithm for pattern matching | [z.cpp](string_problems/z.cpp)|
-| Test cases for self created string library | [pstring_test.cpp](string_problems/pstring_test.cpp)|
-| Get the length of the last word in a string. | [length_of_last_word.cpp](string_problems/length_of_last_word.cpp)|
-| Find the difference between two string. String t is generated by random shuffling string s and then add one more letter at a random position. Determine the character which is different in t| [find_difference.cpp](string_problems/find_difference.cpp)| 
+| Problem |
+| :------------ |
+| Implementation of Robin-Karp algorithm for string search |
+| Find next permutation of a given string, ie. rearrange the given string sucht a way that is next lexicographically greater string than given string |
+| Implementation of Z algorithm for pattern matching |
+| Test cases for self created string library |
+| Get the length of the last word in a string. |
+| Find the difference between two string. String t is generated by random shuffling string s and then add one more letter at a random position. Determine the character which is different in t|
 
 ### Common Data Structure and logic problems
-| Problem | Solution |
-| :------------ | :----------: |
-| Print the contents of matrix in a spiral order | [matrix_spiral_print.cpp](common_ds_algo_problems/matrix_spiral_print.cpp)
-| Given a M x N matrix, rotate it by R rotations anticlockwise, and show the resulting matrix. | [rotate_matrix.cpp](common_ds_algo_problems/rotate_matrix.cpp)|
-| Rotate an array by r elements ( left or right ) | [array_rotation.cpp](common_ds_algo_problems/array_rotation.cpp)
-| Given an array of repeating/non-repeating intergeres, determine the first non-repeating int in this array | [first_non_repeating_int.cpp](common_ds_algo_problems/first_non_repeating_int.cpp)|
-| In Quantumland, there are n cities numbered from 1 to n. Here, c<sub>i</sub> denotes the i<sup>th</sup> city. There are n−1 roads in Quantumland. Here, c<sub>i</sub> and c<sub>i+1</sub> have a bidirectional road between them for each i < n.There is a rumor that Flatland is going to attack Quantumland, and the queen wants to keep her land safe. The road between c<sub>i</sub> and c<sub>i+1</sub> is safe if there is a guard in c<sub>i</sub> or c<sub>i+1</sub>. The queen has already placed a few guards in some of the cities, but she is not sure if they are enough to keep the roads safe. She wants to know the minimum number of new guards she needs to hire. See comments in solution for input/output details. | [save_quantamland.cpp](common_ds_algo_problems/save_quantumland.cpp)|
-| You are given an integer N. Find the digits in this number that exactly divide N (division that leaves 0 as remainder) and display their count. For N=24, there are 2 digits (2 & 4). Both of these digits exactly divide 24. So our answer is 2. See more details in header comment of the solution file. | [findDigits.cpp](common_ds_algo_problems/findDigits.cpp)|
-| Encrypt and then decrypts a text using Caeser Cipher. | [caeser_cipher.cpp](common_ds_algo_problems/caeser_cipher.cpp)|
-| Encrypt and then decrypts a text using Vigenère cipher. | [vigenere_cipher.cpp](common_ds_algo_problems/vigenere_cipher.cpp)|
-| Generate binary numbers between 1 to N efficiently. |[n_binary.cpp](common_ds_algo_problems/n_binary.cpp)|
-| Implement power function | [power_function.cpp](common_ds_algo_problems/power_function.cpp)|
+| Problem |
+| :------------ |
+| Print the contents of matrix in a spiral order |
+| Given a M x N matrix, rotate it by R rotations anticlockwise, and show the resulting matrix. |
+| Rotate an array by r elements ( left or right ) |
+| Given an array of repeating/non-repeating intergeres, determine the first non-repeating int in this array |
+| In Quantumland, there are n cities numbered from 1 to n. Here, c<sub>i</sub> denotes the i<sup>th</sup> city. There are n−1 roads in Quantumland. Here, c<sub>i</sub> and c<sub>i+1</sub> have a bidirectional road between them for each i < n.There is a rumor that Flatland is going to attack Quantumland, and the queen wants to keep her land safe. The road between c<sub>i</sub> and c<sub>i+1</sub> is safe if there is a guard in c<sub>i</sub> or c<sub>i+1</sub>. The queen has already placed a few guards in some of the cities, but she is not sure if they are enough to keep the roads safe. She wants to know the minimum number of new guards she needs to hire. See comments in solution for input/output details. |
+| You are given an integer N. Find the digits in this number that exactly divide N (division that leaves 0 as remainder) and display their count. For N=24, there are 2 digits (2 & 4). Both of these digits exactly divide 24. So our answer is 2. See more details in header comment of the solution file. |
+| Encrypt and then decrypts a text using Caeser Cipher. |
+| Encrypt and then decrypts a text using Vigenère cipher. |
+| Generate binary numbers between 1 to N efficiently. |
+| Implement power function |
 
 ### Math Problems
 | Problem | Solution |
