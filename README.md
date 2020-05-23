@@ -76,6 +76,40 @@ backOutDown, backOutLeft, backOutRight, backOutUp
 **Bouncing exits**<br>
 bounceOut, bounceOutDown, bounceOutLeft, bounceOutRight, bounceOutUp
 
+**Fading entrances**<br>
+fadeIn, fadeInDown, fadeInDownBig, fadeInLeft, fadeInLeftBig, fadeInUp, fadeInUpBig, fadeInTopLeft, fadeInTopRight, fadeInBottomLeft, fadeInbottomRight
+
+**Fading exits**<br>
+fadeOut, fadeOutDown, fadeOutDownBig, fadeOutLeft, fadeOutLeftBig, fadeOutUp, fadeOutUpBig, fadeOutTopLeft, fadeOutTopRight, fadeOutBottomLeft, fadeOutbottomRight
+
+**Flippers**<br>
+flip, flipInX, flipInY, flipOutX, flipOutY
+
+**Lightspeed**<br>
+lightSpeedInRight, lightSpeedInLeft, lightSpeedOutRight, lightSpeedOutLeft
+
+**Rotating entrances**<br>
+rotateIn, rotateInDownLeft, rotateInDownRight, rotateInUpLeft, rotateInUpRight
+
+**Rotating exits**<br>
+rotateOut, rotateOutDownLeft, rotateOutDownRight, rotateOutUpLeft, rotateOutUpRight
+
+**Specials**<br>
+hinge, jackInTheBox, rollIn, rollOut
+
+**Zooming entrances**<br>
+zoomIn, zoomInDown, zoomInLeft, zoomInRight, zoomInUp
+
+**Zooming exits**<br>
+zoomOut, zoomOutDown, zoomOutLeft, zoomOutRight, zoomOutUp
+
+**Sliding entrances**<br>
+slideInDown, slideInLeft, slideInRight, slideInUp
+
+**Sliding exits**<br>
+slideOutDown, slideOutLeft, slideOutRight, slideOutUp
+
+
 ## 사용법
 
 [website](https://animate.style/)에서 animate.css의 자세한 기능들과 사용법들을 볼 수 있습니다.
