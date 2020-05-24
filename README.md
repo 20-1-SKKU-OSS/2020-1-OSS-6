@@ -182,6 +182,8 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
 
 **팀원: 정주원**  
 > 테스팅  
+> 대화형 유저 인터페이스  
+> 최신 알고리즘 조사 및 추가  
 > 오류 발견/수정  
 > readme 수정  
 > 정적페이지 이미지 수정
