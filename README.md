@@ -182,7 +182,9 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
 
 **팀원: 정주원**  
 > 테스팅  
-> 오류 발견/수정
-  
+> 오류 발견/수정  
+> readme 수정  
+> 정적페이지 이미지 수정
+
 ## <div id="proposal">활동 시 이슈내용 및 고려사항 그리고 제안사항</div>
   
