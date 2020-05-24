@@ -181,8 +181,9 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
 > c++로 구현된 코드를 python으로 구현  
 > 문서 한글화
 
-**팀원: ~~~**  
-  
+**팀원: 정주원**  
+> 테스팅  
+> 오류 발견/수정
   
 ## <div id="proposal">활동 시 이슈내용 및 고려사항 그리고 제안사항</div>
   
