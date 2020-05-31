@@ -19,31 +19,35 @@ int main() {
 	return 0;
 }
 
+//배열을 max heap 형태로 재배열한다.
 void maxHeapify(int* arr, int n, int i) {
 	if (i > n / 2 - 1) {
-		//if index of element is greater than i/2 it is in the last level of the heap. no need to call maxHeapify for it.
+		//만약 자신의 index를 i라고 하고 n을 정체 배열의 개수라고 할 때, i > n/2 -1이면 더 이상 내려갈 곳이 없다. 더 이상 maxHeapify를 호출하지 않아도 된다.
 		return;
 	}
 	if (arr[i] > arr[2 * i] && arr[i] > arr[(2 * i) + 1]) {
+		// i 번째 값이 2*i 번째 값보다 크고 i 번째 값이 2*i + 1 번째 값보다 크면 규칙을 만족하니 함수를 종료한다.
 		//heap property already satisfied.
 		return;
 	}
-	
+
+
+	//maxInt에 i를 할당해 두고
 	int maxInx = i, temp;
 
 	while (i <= (n / 2 - 1)) {
-		//finding the index of the largest child of i.
+		//자식들 중 가장 큰 값을 가지고 있는 녀석을 찾는다.
 		if (arr[2 * i + 1] > arr[i] && (2 * i + 1) < n) {
 			maxInx = 2 * i + 1;
 		}
 		if (arr[(2 * i) + 2] > arr[maxInx] && (2 * i + 2) < n) {
 			maxInx = (2 * i) + 2;
 		}
-		//if no change occurs. then return.
+		//만약 이미 규칙을 만족해서 바꿀 필요가 없으면 함수를 종료한다.
 		if (i == maxInx) { return; }
 
-		//having obtained the index of the largest node swap it with i.
-		//swapping arr[i] with arr[maxInx]
+		//만약 규칙을 만족하기 위해서 자리 바꾸기를 해야할 필요가 있다면 
+		//바꿔준다.
 		temp = arr[maxInx];
 		arr[maxInx] = arr[i];
 		arr[i] = temp;
@@ -53,6 +57,7 @@ void maxHeapify(int* arr, int n, int i) {
 }
 
 void buildHeap(int* arr, int n) {
+	//
 	//start calling from the last parent in the heap(n/2) and go upto the root node.
 	//start from the last parent instead of root because here the loop invacriant is that heap condition is 
 	//satisfied for all nodes other than the one for which it is called. which would not be true when it is 
