@@ -57,12 +57,7 @@ void maxHeapify(int* arr, int n, int i) {
 }
 
 void buildHeap(int* arr, int n) {
-	//
-	//start calling from the last parent in the heap(n/2) and go upto the root node.
-	//start from the last parent instead of root because here the loop invacriant is that heap condition is 
-	//satisfied for all nodes other than the one for which it is called. which would not be true when it is 
-	//called for the root node of the array when the array is compeletely random.
-	//refer to CORMEN for more details.
+	//마지막 노드부터 시작해서 위로 올라간다.
 	for (int i = (n / 2 - 1); i >= 0; i--) {
 		maxHeapify(arr, n, i);
 	}
@@ -73,8 +68,7 @@ void heapsort(int* arr, int n) {
 	
 	int temp;
 	while (n > 0) {
-	//after the heap is built take the element a[0], swap it with the last element, discard it and call maxheapify 
-	//for the root element
+	//heap이 만들어진 후에 a[0] 원소를 얻고, 마지막 원소와 바꾼다. 그리고 이 것을 버린 후에 maxheapofy를 호출한다.
 
 		temp = arr[n - 1];
 		arr[n - 1] = arr[0];
