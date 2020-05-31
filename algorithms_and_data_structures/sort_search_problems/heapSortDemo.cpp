@@ -6,8 +6,7 @@ int main()
   const int MAX_ELEMENTS = 10;
   int arr[MAX_ELEMENTS];
   double arrD[MAX_ELEMENTS];
-
-  //Filling up the array with random numbers;
+  //배열에 랜덤하게 수를 채워 넣는다.
   for (int i = 0; i < MAX_ELEMENTS; ++i)
   {
       arr[i] = algo::random_range(1, 100);
