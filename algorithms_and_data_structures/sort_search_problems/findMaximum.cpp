@@ -1,9 +1,11 @@
 /**
- * Find the maximum element in an array which is first increasing and then decreasing.
+ * 원소의 값이 증가하다가 감소하는 배열 내에 가장 큰 수를 찾습니다.
+ * 예시)
  * Input: arr[] = {8, 10, 20, 80, 100, 200, 400, 500, 3, 2, 1}
  * Output: 500
  *
- * Also consider cases like
+ * 다음과 같은 상황도 고려합니다.
+ * 
  * Input: arr[] = {10, 20, 30, 40, 50}
  * Output: 50
  *
@@ -15,16 +17,17 @@
 #include <vector>
 
 int findMaximum(std::vector<int> & arr, int low, int high) {
-	// subset has only one element
+	// 하부 배열의 원소가 하나만 있을 때
 	if ( high == low ) {
-		return arr[low];
+		return arr[low]; // 바로 그 값을 반환합니다.
 	}
 
-	//subset has 2 elements
+	//하부 배열의 원소가 2개일 때
 	if ( high - low == 1 ) {
-		return arr[high] > arr[low] ? arr[high] : arr[low];
+		return arr[high] > arr[low] ? arr[high] : arr[low]; // 높은 쪽에 있는 것과 낮은 쪽에 있는 것 중 높은 값을 반환합니다.
 	}
 
+	//그 외의 경우, 원소가 3개 이상 있을 때는 findMaximum함수를 재귀적으로 호출합니다. 단, 배열을 이분해서 호출합니다.
 	int mid = ( high + low )/2;
 	if ( arr[mid-1] > arr[mid] ) {
 		return findMaximum(arr, low, mid-1);
@@ -34,6 +37,7 @@ int findMaximum(std::vector<int> & arr, int low, int high) {
 
 }
 
+//원소를 처음부터 끝까지 출력합니다.
 void printVec( std::vector<int> & arr ) {
 	std::cout << "Arr:";
 	for ( auto & a : arr ) {
@@ -41,6 +45,7 @@ void printVec( std::vector<int> & arr ) {
 	}
 	std::cout << std::endl;
 }
+
 
 
 int main() {
