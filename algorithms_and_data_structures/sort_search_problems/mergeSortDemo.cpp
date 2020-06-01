@@ -16,8 +16,7 @@
  *                                      |___/                             
  *     Yeah! Ravi let's do it! 
  */
-
-//Simple merge sort demo for 10 random doubles and int
+//원소가 랜덤으로 10개가 들어있는 배열에 대한 간단한 병합정렬코드
 #include <generic.h>
 #include <mergeSort.h>
 
