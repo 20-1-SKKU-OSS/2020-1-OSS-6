@@ -33,17 +33,17 @@ int main()
         arrD[i] = algo::random_range(1.0, 99.99);
     }
 
-    std::cout << "Before Sorting:\n";
+    std::cout << "정렬되기 전:\n";
     algo::printList(arr, MAX_ELEMENTS);
     algo::mergeSort(arr, 0, MAX_ELEMENTS - 1);
-    std::cout << "After Sorting:\n";
+    std::cout << "정렬된 후:\n";
     algo::printList(arr, MAX_ELEMENTS);
 
 
-    std::cout << "\n\nBefore Sorting:\n";
+    std::cout << "\n\n정렬되기 전:\n";
     algo::printList(arrD, MAX_ELEMENTS);
     algo::mergeSort(arrD, 0, MAX_ELEMENTS - 1);
-    std::cout << "After Sorting:\n";
+    std::cout << "정렬된 후:\n";
     algo::printList(arrD, MAX_ELEMENTS);
     return 0;
 }
