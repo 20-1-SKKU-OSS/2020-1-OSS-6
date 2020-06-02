@@ -52,7 +52,6 @@ std::pair<size_t, size_t> minLengthSubarray( std::vector<int> arr ) {
 	}
 
 	// 이와같이, 최대값보다 작은 값을 오른쪽으로부터 찾는다. 그리고 그에 대한 참조값을 바꾼다.
-	// change the end index to that element index
 	for ( size_t i = arr.size() - 1; i >= end+1 ; --i ) {
 		if ( arr[i] < max ) {
 			end = i;
