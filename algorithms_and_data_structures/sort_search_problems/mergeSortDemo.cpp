@@ -25,8 +25,8 @@ int main()
     const int MAX_ELEMENTS = 10;
     int arr[MAX_ELEMENTS];
     double arrD[MAX_ELEMENTS];
-
-    //Filling up the array with random numbers;
+	
+    //랜덤 숫자로 배열을 채운다.
     for (int i = 0; i < MAX_ELEMENTS; ++i)
     {   
         arr[i] = algo::random_range(1, 100);
