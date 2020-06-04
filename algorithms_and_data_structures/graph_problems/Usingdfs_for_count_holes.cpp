@@ -1,6 +1,25 @@
 #include<iostream>
 /*The size of the wall is given first input r c(row, col) 0 means you can get through holes at least ad big as 2*2
- 이 코드는 사람이 통과할 수 있는 구멍이 몇개인지를 찾는 코드 입니다. 첫 줄에 입력 받은 두 수는 벽의 row와 col을 나타냅니다. 다음에 입력 받은 0과 1의 배열을 통해 통과할 수 있는 구멍이 몇개인지를 찾는 것입니다. DFS를 사용해 구현했습니다. */
+ 이 코드는 사람이 통과할 수 있는 구멍이 몇개인지를 찾는 코드 입니다. 
+ 첫 줄에 입력 받은 두 수는 벽의 row와 col을 나타냅니다. 다음에 입력 받은 0과 1의 배열을 통해 통과할 수 있는 구멍이 몇개인지를 찾는 것입니다. 
+ DFS를 사용해 구현했습니다. 
+ Test Case
+ 1.
+ 5 6
+ 1 1 1 1 0 0
+ 1 0 0 1 0 0
+ 1 0 0 1 1 1
+ 1 1 1 0 0 1
+ 0 1 0 0 0 1
+ output: 3
+ 2. 
+ 5 3
+ 0 0 1
+ 0 0 1
+ 1 0 1
+ 1 0 0
+ 1 0 0
+ output: 1*/
 using namespace std;
 
 void dfs(int **arr, int row, int col, int num){
