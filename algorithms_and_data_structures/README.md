@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total C++ Problems | 190 |
+| Total C++ Problems | 191 |
 | Total Python Problems | 15 |
 | Current Daily Streak| 11 |
 | Last Streak | 06/20/2019 - 06/21/2019|
@@ -199,6 +199,8 @@ Include contains single header implementation of data structures and some algori
 | Given an array, find peak element in it. A peak element is an element that is greater than its neighbors.| [peak_element.cpp](sort_search_problems/peak_element.cpp) |
 | Given a sorted array of distinct non-negative integers, find smallest missing element in it.| [smallest_missing.cpp](sort_search_problems/smallest_missing.cpp)|
 | Move all zeros in the vector to the end | [move_zeros.cpp](sort_search_problems/move_zeros.cpp)|
+| bucketSort | [bucketSort.cpp](sort_search_problems/bucketSort.cpp)|
+| radixSort | [radixSort.cpp](sort_search_problems/radixSort.cpp)|
 
 
 ### Graph Problems
