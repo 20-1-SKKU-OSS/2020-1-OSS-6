@@ -1,6 +1,7 @@
 /*
- * Add two binary numbers represented as string.
- *
+ * Add two binary numbers represented as string. 문자열로 표현된 이진법의 숫자들의 덧셈을 나타낸 코드이다.
+ * Test Case
+ * 1010+1011=10101 
  */
 #include <iostream>
 #include <string>

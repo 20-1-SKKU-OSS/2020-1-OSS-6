@@ -2,8 +2,8 @@
 #include "graph.h"
 
 
-/**
- * Implementation of BFS algorithm is in ../include/graph.h
+/*
+  ../include/graph.h에 있는 dfs함수 사용 예제
  */
 
 int main()

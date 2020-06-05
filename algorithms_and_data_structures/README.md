@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total C++ Problems | 188 |
+| Total C++ Problems | 192 |
 | Total Python Problems | 15 |
 | Current Daily Streak| 11 |
 | Last Streak | 06/20/2019 - 06/21/2019|
@@ -172,12 +172,14 @@ Include contains single header implementation of data structures and some algori
 | Generate all possible words from a number entered on a traditional mobile keypad | [phone_digits.cpp](math_problems/phone_digits.cpp)|
 | Given a string representation of a number, remove n characters from the string such that number representation is lowest possible.| [lowest_possible_number.cpp](math_problems/lowest_possible_number.cpp)|
 | Detect if a number is a happy number. A number is happy number if sequence of operations where number is replaced by sum of square of its digits leads eventually to 1. A number is not a happy number if we are in an infinite loop when above operations are performed.| [happy_number.cpp](math_problems/happy_number.cpp)|
+| 합이 s인 k개의 정수들이 있을 때, 그들의 곱이 최대가 되도록 하는 정수셋을 구하는 문제 | [최대곱.cpp](math_problems/최대곱.cpp) |
 ### Stack Problems
 | Problem | Solution |
 | :------------ | :----------: |
 |  We have series of n daily price quotes for a stock. We need to calculate span of stock's price for all n days. Span for ith day is defined as maximum number of consecutive days, for which the price of the stock was less than or equal to ith day. For stock quotes {100, 60, 70, 65, 80, 85} span will be {1, 1, 2, 1, 4, 5}. Span for day 1 is always 1, now for day 2 stock is at 60, and there is no day befor it when stock was less than 60. So span remains 1. For day 3, the stock is priced at 70, so its span is 2, as previous day it was 60, and so on. | [stock_span_problem.cpp](stack_problems/stock_span_problem.cpp) |
 | Given an infix expression, convert it to postfix expression, Example (A+B)\*C --> AB+C\* | [infix_to_postfix.cpp](stack_problems/infix_to_postfix.cpp) |
 | Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.| [valid_parenthesis.cpp](stack_problems/valid_parenthesis.cpp)|
+| 주어진 히스토그램에서 가장 큰 직사각형을 찾는 문제 | [히스토그램.cpp](stack_problems/히스토그램.cpp) |
 
 ### Sort and Search Problems
 | Problem | Solution |
@@ -198,6 +200,8 @@ Include contains single header implementation of data structures and some algori
 | Given an array, find peak element in it. A peak element is an element that is greater than its neighbors.| [peak_element.cpp](sort_search_problems/peak_element.cpp) |
 | Given a sorted array of distinct non-negative integers, find smallest missing element in it.| [smallest_missing.cpp](sort_search_problems/smallest_missing.cpp)|
 | Move all zeros in the vector to the end | [move_zeros.cpp](sort_search_problems/move_zeros.cpp)|
+| bucketSort | [bucketSort.cpp](sort_search_problems/bucketSort.cpp)|
+| radixSort | [radixSort.cpp](sort_search_problems/radixSort.cpp)|
 
 
 ### Graph Problems

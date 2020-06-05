@@ -1,9 +1,26 @@
 /**
+
+ * 주어진 그래프는 N개의 노드(1에서 N)로 이루어져 있고 S는 시작 노드
+ * 두 노드 사이의 엣지는 길이를 통해 주어짐, 다른 엣지의 길이와 같을수도 있고 다를수도 있음
+ * 시작 노드와 다른 모든 노드사이의 최단거리를 구해야함
+ * Note 1 : 노드가 갈 수 없는 노드라면 거리는 -1로 한다
+ 
+ * 인풋
+ * 첫 줄에는 T를 포함 -> 테스트 케이스의 숫자
+ * 각 테스트 케이스의 첫 줄에는 두개의 integer N과 M -> N : 노드의 수, M : 엣지의 수
+ * 다음 M개의 줄에는 세개의 인티저 x,y,w -> x, y : 엣지가 있는 두 노드, w : 두 노드 사이의 거리
+ * 마지막 줄에는 인티저 S -> 시작 위치
+ 
+ * 아웃풋
+ * T개의 테스트 케이스 각각에 대해 시작점 S에서 각 노드에 도달하는 최단거리를 한줄에 N-1개의 ' '로 구분된 인티저들을 출력
+ * 갈 수 없는 노드는 -1을 출력
+ * 같은 노드쌍에 대해 다른 weight를 가진 엣지가 존재하면, 그는 multiple edges로 생각한다.
+ 
  * Given a graph consisting N nodes (labelled 1 to N) where a specific given node S represents the starting position S
  * and an edge between two nodes is of a given length, which may or may not be equal to other lengths in the graph.
  * It is required to calculate the shortest distance from the start position (Node S) to all of the other nodes in the graph.
  * Note 1: If a node is unreachable , the distance is assumed as −1.
- *
+ 
  * Input Format
  * The first line contains T, denoting the number of test cases.
  * First line of each test case has two integers N, denoting the number of nodes in the graph and M,
