@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total C++ Problems | 194 |
+| Total C++ Problems | 195 |
 | Total Python Problems | 15 |
 | Current Daily Streak| 11 |
 | Last Streak | 06/20/2019 - 06/21/2019|
@@ -21,6 +21,7 @@
 | :------------ | :----------: |
 | 백준 2805번 문제 | [2805.cpp](BJproblems/2805.cpp) |
 | 백준 2751번 문제 | [2751.cpp](BJproblems/2751.cpp) |
+| 백준 2613번 문제 | [2613.cpp](BJproblems/2613.cpp) |
 
 ### LinkedList Problems
 | Problem | Solution |
