@@ -14,7 +14,7 @@
  */
 
 #include <iostream>
-
+#include <string>
 int get_length_of_last_word(const std::string& str)
 {
     if (str.length() == 0) {
