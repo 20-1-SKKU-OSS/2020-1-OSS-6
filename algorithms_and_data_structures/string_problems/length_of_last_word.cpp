@@ -10,7 +10,10 @@
  * 
  * Start from end of the string, and trim the whitespace.
  * When we find the first non-space character, find the next space or till we reach beginning of string.
- * 
+ * Example:
+ * sung kyun kwan: 4
+ * sung kyunkwan: 8
+ * sungkyungkwan: 12
  */
 
 #include <iostream>
