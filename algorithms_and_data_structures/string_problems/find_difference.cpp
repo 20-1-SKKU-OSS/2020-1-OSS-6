@@ -7,7 +7,10 @@
  * Approach: Since only one letter is different between s and t,
  * we could try XOR approach.
  * XOR of a character with itself will give 0.
- 
+ * Example:
+ * str1:hello
+ * str2: helllo
+ * find_difference(str1, str2) : l 
  
     
  */
