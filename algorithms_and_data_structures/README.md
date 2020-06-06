@@ -9,8 +9,7 @@
 | Total C++ Problems | 208 |
 | Total Python Problems | 15 |
 | Current Daily Streak| 11 |
-| Last Streak | 06/20/2019 - 06/21/2019|
-| Current Streak | 06/23/2019 - 07/03/2019|
+
 
 </center>
 
