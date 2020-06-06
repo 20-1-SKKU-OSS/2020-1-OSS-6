@@ -13,7 +13,7 @@
  */
 
 #include <iostream>
-#incldue <string> /* 추가해 주었습니다 */
+#include <string> /* 추가해 주었습니다 */
 char find_difference(const std::string& s, const std::string& t)
 {
     std::string r = s + t;
