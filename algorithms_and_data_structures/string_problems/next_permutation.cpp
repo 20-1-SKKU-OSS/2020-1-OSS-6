@@ -12,7 +12,7 @@
  */
 
 #include <iostream>
-
+#include <string>
 std::string
 next_permutation( std::string str)
 {
