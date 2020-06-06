@@ -18,7 +18,7 @@ tags: [Programming, Learn] # add tag
 ### 백준 문제
 
 | Problem | Solution |
-| :------------ | :----------: |
+| :------------: | :----------: |
 | 백준 2805번 문제 | [2805.cpp](BJproblems/2805.cpp) |
 | 백준 2751번 문제 | [2751.cpp](BJproblems/2751.cpp) |
 | 백준 2613번 문제 | [2613.cpp](BJproblems/2613.cpp) |
