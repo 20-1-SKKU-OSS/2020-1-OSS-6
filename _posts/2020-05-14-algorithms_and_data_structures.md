@@ -39,7 +39,7 @@ tags: [Programming, Learn] # add tag
 ### LinkedList Problems
 
 | Problem | Solution |
-| :------------ | :----------: |
+| :------------: | :----------: |
 | Find the nth node of linked list from last. |[nthToLastNode.cpp](linked_list_problems/nthToLastNode.cpp), [nth_to_last_node.py](linked_list_problems/nth_to_last_node.py) |
 | Add numbers where each digit of the number is represented by node of a linkedlist.  Give output as a linked list. | [add_two_numbers_lists.cpp](linked_list_problems/add_two_numbers_lists.cpp), [add_two_numbers_list.py](linked_list_problems/add_two_numbers_lists.py)|
 | Swap nodes of a linkedlist without swapping data. |[swapNodesWithoutSwappingData.cpp](linked_list_problems/swapNodesWithoutSwappingData.cpp), [swap_nodes_without_swapping_data.py](linked_list_problems/swap_nodes_without_swapping_data.py)|
