@@ -17,23 +17,23 @@ tags: [Programming, Learn] # add tag
 
 ### 백준 문제
 
-| Problem | Solution |<br>
-| :------------ | :----------: |<br>
-| 백준 2805번 문제 | [2805.cpp](BJproblems/2805.cpp) |<br>
-| 백준 2751번 문제 | [2751.cpp](BJproblems/2751.cpp) |<br>
-| 백준 2613번 문제 | [2613.cpp](BJproblems/2613.cpp) |<br>
-| 백준 2548번 문제 | [2548.cpp](BJproblems/2548.cpp) |<br>
-| 백준 2512번 문제 | [2512.cpp](BJproblems/2512.cpp) |<br>
-| 백준 2495번 문제 | [2495.cpp](BJproblems/2495.cpp) |<br>
-| 백준 2475번 문제 | [2475.cpp](BJproblems/2475.cpp) |<br>
-| 백준 2437번 문제 | [2437.cpp](BJproblems/2437.cpp) |<br>
-| 백준 2011번 문제 | [2011.cpp](BJproblems/2011.cpp) |<br>
-| 백준 1931번 문제 | [1931.cpp](BJproblems/1931.cpp) |<br>
-| 백준 1920번 문제 | [1920.cpp](BJproblems/1920.cpp) |<br>
-| 백준 15829번 문제 | [15829.cpp](BJproblems/15829.cpp) |<br>
-| 백준 1260번 문제 | [1260.cpp](BJproblems/1260.cpp) |<br>
-| 백준 11047번 문제 | [11047.cpp](BJproblems/11047.cpp) |<br>
-| 백준 10815번 문제 | [10815.cpp](BJproblems/10815.cpp) |<br>
+| Problem | Solution |
+| :------------ | :----------: |
+| 백준 2805번 문제 | [2805.cpp](BJproblems/2805.cpp) |
+| 백준 2751번 문제 | [2751.cpp](BJproblems/2751.cpp) |
+| 백준 2613번 문제 | [2613.cpp](BJproblems/2613.cpp) |
+| 백준 2548번 문제 | [2548.cpp](BJproblems/2548.cpp) |
+| 백준 2512번 문제 | [2512.cpp](BJproblems/2512.cpp) |
+| 백준 2495번 문제 | [2495.cpp](BJproblems/2495.cpp) |
+| 백준 2475번 문제 | [2475.cpp](BJproblems/2475.cpp) |
+| 백준 2437번 문제 | [2437.cpp](BJproblems/2437.cpp) |
+| 백준 2011번 문제 | [2011.cpp](BJproblems/2011.cpp) |
+| 백준 1931번 문제 | [1931.cpp](BJproblems/1931.cpp) |
+| 백준 1920번 문제 | [1920.cpp](BJproblems/1920.cpp) |
+| 백준 15829번 문제 | [15829.cpp](BJproblems/15829.cpp) |
+| 백준 1260번 문제 | [1260.cpp](BJproblems/1260.cpp) |
+| 백준 11047번 문제 | [11047.cpp](BJproblems/11047.cpp) |
+| 백준 10815번 문제 | [10815.cpp](BJproblems/10815.cpp) |
 | 백준 10263번 문제 | [10263.cpp](BJproblems/10263.cpp) |
 
 ### LinkedList Problems
