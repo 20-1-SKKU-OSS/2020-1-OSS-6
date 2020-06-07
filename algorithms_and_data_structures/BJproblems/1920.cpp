@@ -31,9 +31,9 @@ bool binary_search(int arr[], int len, int target){
 int main()
 {
     int N; cin >> N; int A[100000];
-    for(int i = 0; i < N; i++)  scanf("%d",&A[i]);
+    for(int i = 0; i < N; i++)  cin >> A[i];
     int M; cin >> M; int B[100000];
-    for(int i = 0; i < M; i++)  scanf("%d",&B[i]);
+    for(int i = 0; i < M; i++)  cin >> B[i];
     sort(A,A+N);
 
     for( int i = 0; i < M ; i ++)
