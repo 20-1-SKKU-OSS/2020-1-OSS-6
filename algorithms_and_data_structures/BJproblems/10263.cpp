@@ -30,9 +30,9 @@ void reposition();
 using namespace std;
 int arr[100005], N, n = 0, result = 0;
 int main(){
-scanf("%d",&N);
+cin >> N; scanf("%d",&N);
 for(int i = 0 ; i <N;i++)
-    scanf("%d",&arr[i]);
+    cin >> arr[i];
 sort(arr,arr+N);
 
 while(N>=n){
@@ -46,7 +46,7 @@ while(N>=n){
     }
 }
 
-printf("%d",result);
+cout << result;
 }
 
 bool check(){
