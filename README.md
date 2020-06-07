@@ -53,6 +53,7 @@ GitHub ID: ChungJuwon
 | :------------: | :----------: |
 | Total C++ Problems | 194 |
 | Total Python Problems | 15 |
+| Total Java Problems | 1 |   
 | Current Daily Streak| 11 |
 
 
