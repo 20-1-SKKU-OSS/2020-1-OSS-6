@@ -34,7 +34,8 @@ int main(){
     cin >> N;
     unsigned int arr[N];
     for(int i =0; i < N; i++){
-        scanf("%d", &arr[i]);
+        
+        cin >> arr[i];
     }
     sort(arr,arr+N);
     cout << arr[(N-1)/2];
