@@ -9,6 +9,7 @@
 - [개인별 기여방법](#WhatToDo)
 - [활동 시 이슈내용 및 고려사항 그리고 제안사항](#proposal)
 - [Contributor 모집](#gather)
+- [Wiki](#wiki)
 
 
 ## <div id="HOME_PAGE">HOME_PAGE</div>
@@ -194,3 +195,5 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
 ## <div id="gather">Contributor 모집</div>
 우리의 project에 관심이 있다면, issue 탭에 이메일을 남겨주세요.
   
+ ## <div id="wiki">Wiki</div>
+[wiki](https://github.com/20-1-SKKU-OSS/2020-1-OSS-6/wiki)에서 프로젝트에 대한 자세한 내용을 만나보실 수 있습니다.
