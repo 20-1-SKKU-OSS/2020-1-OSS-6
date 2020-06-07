@@ -6,14 +6,17 @@
 #include <vector>
 
 //bottom up
+std::vector<int> fib(2000, 0);
+fib[0]=1;
+fib[1]=1;
 
 int fib1(int n) {
-	std::vector<int> fib(n, 0);
+//	std::vector<int> fib(n, 0);
 	if ( n == 0 || n == 1 ) {
 		return 1;
 	}
-	fib[0] = 1;
-	fib[1] = 1;
+//	fib[0] = 1;
+//	fib[1] = 1;
 	for ( int i = 2; i < n; ++i ) {
 		fib[i] = fib[i-1] + fib[i-2];
 	}
@@ -22,7 +25,7 @@ int fib1(int n) {
 
 //top down
 
-std::vector<int> fib(1000, 0);
+//std::vector<int> fib(1000, 0);
 int fib2( int n ) {
 	if ( n == 0 ) {
 		return 0;
