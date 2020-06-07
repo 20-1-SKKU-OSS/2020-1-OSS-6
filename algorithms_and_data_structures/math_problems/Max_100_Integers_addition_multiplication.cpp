@@ -18,8 +18,9 @@ int main() {
 	int ans[300] = { 0 };
 	char c[101], d[101];
 	char operand;
-
+	/* operand와 문자열로 된 숫자 입력 */
 	cin >> operand >> c >> d;
+	/*100자리수를 초과하는 숫자 입력시 프로그램 종료 */
 	if (strlen(c) > 100 || strlen(d) > 100){
 		cout << "100자리를 넘어가서 프로그램을 종료합니다.";
 		return 0;
@@ -27,6 +28,7 @@ int main() {
 	int e = 0;
 	int f = 0;
 	int temp;
+	/* 문자열로 받은 숫자를 정수 데이터 타입으로 변환 */
 	for (int i = strlen(c) - 1; i >= 0; i--) {
 
 		a[e] = c[i] - 48;
