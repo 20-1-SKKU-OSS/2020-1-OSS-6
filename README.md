@@ -8,6 +8,7 @@
 - [커뮤니티 활동 계획](#plan)
 - [개인별 기여방법](#WhatToDo)
 - [활동 시 이슈내용 및 고려사항 그리고 제안사항](#proposal)
+- [Contributor 모집](#gather)
 
 
 ## <div id="HOME_PAGE">HOME_PAGE</div>
@@ -189,4 +190,7 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
 > 정적페이지 이미지 수정
 
 ## <div id="proposal">활동 시 이슈내용 및 고려사항 그리고 제안사항</div>
+
+## <div id="gather">Contributor 모집</div>
+우리의 project에 관심이 있다면, issue 탭에 이메일을 남겨주세요.
   
