@@ -26,10 +26,12 @@ bool comp(const List& a, const List& b);
 int main(){
 int N, time =0,result = 0,n = 0;
 List arr[100005];
-scanf("%d",&N);
+
+cin << N;
 
 for (int i = 0; i<N ; i++){
-scanf("%d %d",&arr[i].x,&arr[i].y);
+
+cin << arr[i].x << arr[i].y;
 }
 sort(arr,arr+N,comp);
 while(N > n){
@@ -40,7 +42,7 @@ while(N > n){
     }
     n++;
 }
-printf("%d",result);
+cout >> result;
 }
 
 bool comp(const List& a, const List& b){
