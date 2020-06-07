@@ -1,3 +1,13 @@
+
+/*   
+해당 heap_max.h는 heap의 max를 찾기 위한 기능으로,  
+부모가 자식 노드보다 큰 heap 구조 key(부모 노드) >= key(자식 노드)를 말합니다.  
+
+본 기능은 기존 기능과 같이 #include 을 사용하여 활용할 수 있습니다.  
+
+*/   
+
+
 #ifndef HEAP_MAX_H
 #define HEAP_MAX_H
 
