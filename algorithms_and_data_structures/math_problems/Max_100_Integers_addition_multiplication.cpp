@@ -20,6 +20,10 @@ int main() {
 	char operand;
 
 	cin >> operand >> c >> d;
+	if (strlen(c) > 100 || strlen(d) > 100){
+		cout << "100자리를 넘어가서 프로그램을 종료합니다.";
+		return 0;
+	}
 	int e = 0;
 	int f = 0;
 	int temp;
