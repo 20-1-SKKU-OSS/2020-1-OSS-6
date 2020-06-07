@@ -37,8 +37,8 @@ int main()
     sort(A,A+N);
 
     for( int i = 0; i < M ; i ++)
-        printf("%d\n", binary_search(A, N, B[i]) );
-
+        
+        cout << binary_search(A, N, B[i]) << endl;
 
 }
 
