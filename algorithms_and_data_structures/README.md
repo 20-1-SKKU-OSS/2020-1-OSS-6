@@ -41,13 +41,13 @@
 ### CD problems
 | Problem | Solution |
 | :------------ | :----------: |
-| Problem 1-1 | [aigame.py](BJproblems/2805.cpp) |
-| Problem 1-2 | [bitmap_coder.java](BJproblems/2751.cpp) |
-| Problem 1-3 | [fibonacci.py](BJproblems/2613.cpp) |
-| Problem 1-4  | [matrix.py](BJproblems/2548.cpp) |
-| Problem 1-5  | [min_compare.py](BJproblems/2751.cpp) |
-| Problem 1-6  | [number_of_cases.py](BJproblems/2613.cpp) |
-| Problem 1-7  | [zigzag_array.py](BJproblems/2548.cpp) |
+| Problem 1-1 | [aigame.py](CDproblems/aigame.py) |
+| Problem 1-2 | [bitmap_coder.java](CDproblems/bitmap_coder.java) |
+| Problem 1-3 | [fibonacci.py](CDproblems/fibonacci.py) |
+| Problem 1-4  | [matrix.py](CDproblems/matrix.py) |
+| Problem 1-5  | [min_compare.py](CDproblems/min_compare.py) |
+| Problem 1-6  | [number_of_cases.py](CDproblems/number_of_cases.py) |
+| Problem 1-7  | [zigzag_array.py](CDproblems/zigzag_array.py) |
 
 ### LinkedList Problems
 | Problem | Solution |
