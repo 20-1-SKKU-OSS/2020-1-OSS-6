@@ -41,7 +41,7 @@
 ### CD problems
 | Problem | Solution |
 | :------------ | :----------: |
-| Problem 1-1 | [aigame.py](CDproblems/aigame.py) |
+| Problem 1-1 | [aigame.py](CDproblems/ai_game.py) |
 | Problem 1-2 | [bitmap_coder.java](CDproblems/bitmap_coder.java) |
 | Problem 1-3 | [fibonacci.py](CDproblems/fibonacci.py) |
 | Problem 1-4  | [matrix.py](CDproblems/matrix.py) |
