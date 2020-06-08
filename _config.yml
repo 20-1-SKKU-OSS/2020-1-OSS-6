@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: OSS 6조 # add your name
-author-img: ![profile](six.png) # add your photo
+author-img: ![profile](./six.png) # add your photo
 about-author: 2020-1-OSS-6조
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
