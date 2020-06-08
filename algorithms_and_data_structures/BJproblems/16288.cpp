@@ -7,7 +7,8 @@ using namespace std;
 int main(){
 int N,K;
 cin >> N >> K;
-int InputArr[N], RollBackArr[K];
+int* InputArr = new int[N];
+int* RollBackArr = new int[K];
 for (int i = 0; i <K ; i++)
     RollBackArr[i] = N+1;
 for(int i = 0; i < N; i++)
@@ -36,6 +37,10 @@ if (BigSuccess == 0)
     cout << "NO";
 else
     cout << "YES";
+    
+    
+delete InputArr[];
+delete RollBackArr[];
 
 }
 
