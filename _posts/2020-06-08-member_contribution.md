@@ -37,6 +37,21 @@ tags: [Programming, Learn] # add tag
 
 
 ## 팀원 : 옥영민
+1. 팀원들 간의 협력  
+- 팀원들 간에 issue 발생시 수정  
+- 팀원들 간에 주석, 버그 수정  
+2. 코드 추가 및 개선  
+- heap_max.h 추가: heap의 경우 max가 없는 점을 보안하기 위함.  
+- CD problmes란 추가: 본 자료에는 C++과 python언어를 제공하지만 python문제가 다소 빈약함.  
+- CD problems의 matrix.py 개선: 기존의 풀이가 오래걸려 개선함.  
+3. 정적 페이지  
+- 정적 페이지 디자인 수정  
+- 정적 페이지 post 생성 및 수정  
+4. 문서화 작업  
+- 피피티 내용 작성  
+- 코드 추가 시 주석 설명 및 input & output 작성
+- BJ problems 1931, 1582 주석 추가  
+- BJ problems 영한 번역  
 
 
 
