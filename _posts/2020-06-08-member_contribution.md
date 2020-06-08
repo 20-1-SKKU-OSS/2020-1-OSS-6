@@ -57,7 +57,28 @@ tags: [Programming, Learn] # add tag
 
 
 
-## 팀원 : 민경민
+## 팀원 : 민경민   
+1. 코드 리뷰 및 개선   
+-BJ Problems: 1920,11650,10263,11399,15829,1931,2548,2751번을 수정.      
+-CD Problems: 알맞은 파일형식 제시.   
+-Improved_algorithms: 오타 수정.   
+-String problems: Find_difference 버그 수정 및 test case 추가, Length_of_last_word 버그 수정 및 test case 추가, Next_permutation 버그 수정 
+-Bit manipulation problems: addBin test case 추가  
+2. 새로운 코드 추가   
+-Math Problems: Segmentation fault가 일어나지 않는 계산하는 프로그램 추가, 소인수 분해시 가장 큰 소수 반환하는 코드 추가.
+-Graph Problems: DFS를 이용해서 문제를 푸는 코드 추가.   
+3. 팀원들간의 협력
+-Issue를 활용 해 버그 전달 및 오류 해결.
+-Pull-request를 통해 에러 방지 코드를 작성하는 등 부족한 부분 보완.
+-Merge를 할 시 오류 사항 점검 및 해결.   
+4.문서 작성
+-Wiki page: Algrotithms_and_Data_Structures 작성 및 새로운 문제 추가 시 업데이트.      
+-정적 페이지: 새로운 문제 algorithms_and_data_structures란에 추가. Wiki, Issue post 업데이트.   
+-README.md: 활동 시 이슈내용 및 고려사항 그리고 제한사항 추가, 활동 계획 추가, 문제 정리 표에 추가된 문제 수 정리   
+
+
+
+
 
 
 
