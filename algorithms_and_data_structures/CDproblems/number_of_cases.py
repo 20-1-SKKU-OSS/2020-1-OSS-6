@@ -42,3 +42,5 @@ def sta(n):
         i += 1
     return a[n]+a[n-1]
 
+n=input("임의의 자연수 n 입력")
+print("경우의 수오 계단 갯수 순서 : "+sta(n))
