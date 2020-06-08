@@ -38,6 +38,15 @@ tags: [Programming, Learn] # add tag
 | 백준 10815번 문제 | [10815.cpp](BJproblems/10815.cpp) |
 | 백준 10263번 문제 | [10263.cpp](BJproblems/10263.cpp) |
 
+### Improved algorithms
+
+| Problem | Solution |
+| :------------: | :----------: |
+| Improved binary search | [improvedbinarysearch.java](Improved_algorithms/improvedbinarysearch.java) |
+|  Improved merge sort |  [improvedmergesort.c](Improved_algorithms/improvedmergesort.c) |
+|  Improved quick sort |  [improvedquicksort.cpp](Improved_algorithms/[improvedquicksort.cpp) |
+| Improved quick sort version 2 | [improvedquicksort2.cpp](Improved_algorithms/improvedquicksort2.cpp) |
+| Improved selection sort | [improvedselectionsort.cpp](Improved_algorithms[improvedselectionsort.cpp/) |
 
 ### CD problems
 
