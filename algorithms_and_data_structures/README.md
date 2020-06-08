@@ -38,6 +38,17 @@
 | 백준 10815번 문제 | [10815.cpp](BJproblems/10815.cpp) |
 | 백준 10263번 문제 | [10263.cpp](BJproblems/10263.cpp) |
 
+### CD problems
+| Problem | Solution |
+| :------------ | :----------: |
+| Problem 1-1 | [aigame.py](BJproblems/2805.cpp) |
+| Problem 1-2 | [bitmap_coder.java](BJproblems/2751.cpp) |
+| Problem 1-3 | [fibonacci.py](BJproblems/2613.cpp) |
+| Problem 1-4  | [matrix.py](BJproblems/2548.cpp) |
+| Problem 1-5  | [min_compare.py](BJproblems/2751.cpp) |
+| Problem 1-6  | [number_of_cases.py](BJproblems/2613.cpp) |
+| Problem 1-7  | [zigzag_array.py](BJproblems/2548.cpp) |
+
 ### LinkedList Problems
 | Problem | Solution |
 | :------------ | :----------: |
