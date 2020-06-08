@@ -51,7 +51,7 @@ tags: [Programming, Learn] # add tag
 - 피피티 내용 작성  
 - 코드 추가 시 주석 설명 및 input & output 작성
 - BJ problems 1931, 1582 주석 추가  
-- BJ problems 영한 번역  
+- BJ problems  10263 영한 번역  
 
 
 
