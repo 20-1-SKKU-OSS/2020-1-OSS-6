@@ -38,6 +38,7 @@ tags: [Programming, Learn] # add tag
 
 
 ### CD problems
+
 | Problem | Solution |
 | :------------ | :----------: |
 | Problem 1-1 | [aigame.py](CDproblems/ai_game.py) |
@@ -47,6 +48,7 @@ tags: [Programming, Learn] # add tag
 | Problem 1-5  | [min_compare.py](CDproblems/min_compare.py) |
 | Problem 1-6  | [number_of_cases.py](CDproblems/number_of_cases.py) |
 | Problem 1-7  | [zigzag_array.py](CDproblems/zigzag_array.py) |
+
 
 ### LinkedList Problems
 
