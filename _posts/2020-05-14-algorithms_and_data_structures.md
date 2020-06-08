@@ -49,6 +49,17 @@ tags: [Programming, Learn] # add tag
 | Problem 1-6 | [number_of_cases.py](CDproblems/number_of_cases.py) |
 | Problem 1-7 | [zigzag_array.py](CDproblems/zigzag_array.py) |
 
+### Improved_algorithms
+
+| Problem | Solution |
+| :------------: | :----------: |
+| Problem 1-1 | [improvedbinarysearch.java](Improved_algorithms/improvedbinarysearch.java) |
+| Problem 1-2 | [improvedmergesort.c](Improved_algorithms/improvedmergesort.c) |
+| Problem 1-3 | [improvedquicksort.cpp](Improved_algorithms/improvedquicksort.cpp) |
+| Problem 1-4 | [improvedquicksort2.cpp](Improved_algorithms/improvedquicksort2.cpp) |
+| Problem 1-5 | [improvedselectionsort.cpp](Improved_algorithms/improvedselectionsort.cpp) |
+
+
 
 ### LinkedList Problems
 
