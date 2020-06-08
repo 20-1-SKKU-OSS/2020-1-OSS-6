@@ -172,7 +172,7 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
   
 **팀원: 옥영민**  
 
-> 힙소트 알고리즘(max & min) 추가  
+> 힙소트 알고리즘 추가  
 > 알고리즘 시간 복잡도 계산 추가  
 > 모션 customize  
 > 코드 테스팅 및 버그 수정   
