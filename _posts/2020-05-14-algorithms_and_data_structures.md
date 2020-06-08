@@ -201,6 +201,8 @@ Include contains single header implementation of data structures and some algori
 | Detect if a number is a happy number. A number is happy number if sequence of operations where number is replaced by sum of square of its digits leads eventually to 1. A number is not a happy number if we are in an infinite loop when above operations are performed.| [happy_number.cpp](math_problems/happy_number.cpp)|
 | 합이 s인 k개의 정수들이 있을 때, 그들의 곱이 최대가 되도록 하는 정수셋을 구하는 문제 | [최대곱.cpp](math_problems/최대곱.cpp) |
 | Find the largest prime factor of a given integer n | [FindtheLargestPrimeFactor.py](math_problems/FindtheLargestPrimeFactor.py) |
+| This program can calculate big size of integer's addition and multiplication | [Max_100_Integers_addition_multiplication.cpp](math_problems/Max_100_Integers_addition_multiplication.cpp) |
+
 ### Stack Problems
 
 | Problem | Solution |
