@@ -65,7 +65,7 @@ tags: [Programming, Learn] # add tag
 - String problems: Find_difference 버그 수정 및 test case 추가, Length_of_last_word 버그 수정 및 test case 추가, Next_permutation 버그 수정 
 - Bit manipulation problems: addBin test case 추가  
 2. 새로운 코드 추가   
-- Math Problems: Segmentation fault가 일어나지 않는 계산하는 프로그램 추가, 소인수 분해시 가장 큰 소수 반환하는 코드 추가.
+- Math Problems: Segmentation fault가 일어나지 않는 계산 프로그램 추가, 소인수 분해시 가장 큰 소수 반환하는 코드 추가.
 - Graph Problems: DFS를 이용해서 문제를 푸는 코드 추가.   
 3. 팀원들간의 협력
 - Issue를 활용 해 버그 전달 및 오류 해결.
