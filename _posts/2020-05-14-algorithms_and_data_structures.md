@@ -11,8 +11,8 @@ tags: [Programming, Learn] # add tag
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total C++ Problems | 208 |
-| Total Python Problems | 15 |
+| Total C++ Problems | 213 |
+| Total Python Problems | 21 |
 | Current Daily Streak| 11 |
 
 ### 백준 문제
