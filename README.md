@@ -164,7 +164,10 @@ Animate.css의 라이센스는 MIT license. <https://opensource.org/licenses/MIT
 > 백준문제를 기반으로 하는 코드 작성  
 > 정적 페이지 수정  
 > wiki 수정  
-> readme 수정  
+> readme 작성
+> project 생성 및 관리
+> License 생성
+> CODE_OF_CONDUCT.md 생성
   
 **팀원: 옥영민**  
 
