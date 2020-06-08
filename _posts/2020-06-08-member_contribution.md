@@ -83,3 +83,20 @@ tags: [Programming, Learn] # add tag
 
 
 ## 팀원 : 정주원
+1. 정적 페이지, 문서 작성
+- 같은 이미지를 가지고 있는 post에 차별성을 두기 위해 각각 다른 이미지를 적용.
+- 진행하고 있는 프로젝트의 post에 추가된 알고리즘 내용(improved_algorithms)을 덧붙여서 작성
+- post 게시물의 표가 깨지는 현상을 issue를 통해 확인하고 문제를 일으키는 라인을 발견 및 수정하여 오류 해결.
+- wiki post의 생성된 내용 검토 및 수정.
+- README.md 파일에 글자 크기를 규칙적으로 맞추고 개인 항목을 작성함.
+2. 팀원들과 협력
+- pull request를 검토하여 잘못 올라온 pull request를 거절하고 이상이 없는 pull request를 master에 merge 해줌.
+- 오래 쌓여있던 issue 중 수정되거나 사용이 완료된 이미지 같은 항목들에 comment를 달고 close하여 진행되는 사항을 보기 쉽게 함.
+- 새로운 디렉토리(improved algorithms) 추가 후 issue를 통해 공지하여 디렉토리를 활용 및 검토할 수 있게 함.
+- issue에 표 디자인 관련 문제가 올라와서 해결하려 했으나 방법을 찾기 못하여 commet를 남겨두고 해결방법을 찾기 위해 close하지 않음.
+3. 코드 추가 및 개선
+- priority queue demo 조사 및 queue problem 디렉토리에 해당 파일 추가
+- Improved algorithms 디렉토리를 추가하여 파일을 업로드 할 수 있게 함.
+- improved 된 다양한 sorting 혹은 searching 알고리즘 자료를 조사 한 후 해당 코드를 Improved algorithms 디렉토리에 추가함.
+- CDproblems에 number_of_cases.py 에서 해당 문제 해결 함수를 직접 실행시킬 수 있는 인풋 아웃풋을 받는 부분을 추가해줌.
+
