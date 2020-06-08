@@ -306,11 +306,11 @@ Include contains single header implementation of data structures and some algori
 ### Leet code Problems
 
 | Problem | Solution |
-| :------------: | :----------: |
-| Given a sorted integer array without duplicates, return the summary of its ranges. For example, given [0,1,2,4,5,7], return ["0->2","4->5","7"]. | [summary_ranges.cpp](leet_code_problems/summary_ranges.cpp) |
-| Given a 2D matrix, with following properties <ul><li>Integers in each row are sorted in ascending from left to right.</li></ul><ul><li>Integers in each column are sorted in ascending from top to bottom.</ul></li> | [search2DII.cpp](leet_code_problems/search2DII.cpp) |
-| Given an unsorted integer array, find the first missing positive integer.Example: [1,2,0] should return 3 and [3,4,-1,1] should return 2. Expected time complexity O(n) and solution should use constant space | [firstMissingPositiveNum.cpp](leet_code_problems/firstMissingPositiveNum.cpp) |
-| Given an unsorted array of integers, find the length of the longest consecutive elements sequence. For example: Given [100, 4, 200, 1, 3, 2]. The longest consecutive elements sequence is [1, 2, 3, 4]. Return its length: 4. Algorithm should run in O(n) complexity. | [longestConsecutiveSeq.cpp](leet_code_problems/longestConsecutiveSeq.cpp) |
+| :------------ | :----------: |
+| Given a sorted integer array without duplicates, return the summary of its ranges. For example, given [0,1,2,4,5,7], return ["0->2","4->5","7"].| [summary_ranges.cpp](leet_code_problems/summary_ranges.cpp)|
+| Given a 2D matrix, with following properties <ul><li>Integers in each row are sorted in ascending from left to right.</li></ul><ul><li>Integers in each column are sorted in ascending from top to bottom.</ul></li>|[search2DII.cpp](leet_code_problems/search2DII.cpp)|
+| Given an unsorted integer array, find the first missing positive integer.Example: [1,2,0] should return 3 and [3,4,-1,1] should return 2. Expected time complexity O(n) and solution should use constant space| [firstMissingPositiveNum.cpp](leet_code_problems/firstMissingPositiveNum.cpp)|
+|Given an unsorted array of integers, find the length of the longest consecutive elements sequence. For example: Given [100, 4, 200, 1, 3, 2]. The longest consecutive elements sequence is [1, 2, 3, 4]. Return its length: 4. Algorithm should run in O(n) complexity.| [longestConsecutiveSeq.cpp](leet_code_problems/longestConsecutiveSeq.cpp)|
 |Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.| [mergeArrays.cpp](leet_code_problems/mergeArrays.cpp)
 |Given an array of non-negative integers, you are initially positioned at the first index of the array. Each element in the array represents your maximum jump length at that position. Determine if you are able to reach the last index. For example: <ul><li>A = [2,3,1,1,4], return true.</li></ul><ul><li>A = [3,2,1,0,4], return false.</li></ul>| [jumpGame.cpp](leet_code_problems/jumpGame.cpp)|
 |Given a positive integer, return its corresponding column title as appear in an Excel sheet. For example 1 -> A, 2 -> B,...26 -> Z, 27 -> AA, 28 -> AB, ...705 -> AAC | [excelColSheetTitle.cpp](leet_code_problems/excelColSheetTitle.cpp)|
@@ -339,4 +339,19 @@ Include contains single header implementation of data structures and some algori
 |Given a sorted array, remove duplicates in place and return the new length. It doesn't matter what is in array beyond the unique elements size. Expected O(1) space and O(n) time complexity.| [remove_duplicates.cpp](leet_code_problems/remove_duplicates.cpp) |
 | Count the number of islands in a grid. Given a grid representing 1 as land body, and 0 as water body, determine the number of islands (more details in problem comments)|[count_islands.cpp](leet_code_problems/count_islands.cpp)|
 | Find median from a data stream. Design a data structure that supports addNum to add a number to the stream, and findMedian to return the median of the current numbers seen so far. Also, if the count of numbers is even, return average of two middle elements, return median otherwise.|[median_stream.cpp](leet_code_problems/median_stream.cpp)
-| Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results. Note: The input string may contain letters other than the parentheses | [remove_invalid_parenthesis.cpp](leet_code_problems/remove_invalid_parenthesis.cpp)|
+| Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results. Note: The input string may contain letters other than the parentheses ( and ) | [remove_invalid_parenthesis.cpp](leet_code_problems/remove_invalid_parenthesis.cpp)|
+| Given an array and a value, remove all instances of that value in-place and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory. The order of elements can be changed. It doesn't matter what you leave beyond the new length.| [remove_element.cpp](leet_code_problems/remove_element.cpp)|
+| Find intersection of two arrays/vectors, Given two vectors find the result of their interaction. The result should only contain unique characters and can be in any order|[intersection_of_array.cpp](leet_code_problems/intersection_of_array.cpp)|
+| Given a pattern and a string str, find if str follows the same pattern. Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in str. example:
+pattern = "abba", str = "dog cat cat dog" should return true.
+pattern = "abba", str = "dog cat cat fish" should return false.
+pattern = "aaaa", str = "dog cat cat dog" should return false.
+pattern = "abba", str = "dog dog dog dog" should return false.| [word_pattern.cpp](leet_code_problems/word_pattern.cpp)|
+|You are provided a vector of numbers, where each number represents
+price of a stock on ith day. If you are permitted to only complete 
+one transaction per day (i.e buy one and sell one stock), design
+an algorithm to find the maximum profit.| [best_time_to_buy_sell.cpp](leet_code_problems/best_time_to_buy_sell.cpp)|
+| Given a sentence, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.|
+ Example: 
+ Input:  She loves    chocolate 
+ Output: ehs sevol    etalocohc|[reverse_words.cpp](leet_code_problems/reverse_words.cpp)|
