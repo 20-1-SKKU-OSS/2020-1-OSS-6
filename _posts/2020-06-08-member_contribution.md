@@ -46,7 +46,7 @@ tags: [Programming, Learn] # add tag
 - CD problmes란 추가: 본 자료에는 C++과 python언어를 제공하지만 python문제가 다소 빈약함.  
 - CD problems의 matrix.py 개선: 기존의 풀이가 오래걸려 개선함.  
 3. 정적 페이지  
-- 정적 페이지 디자인 수정  
+- 정적 페이지 디자인 수정 (구성 및 favicon) 
 - 정적 페이지 post(wiki, member contribution, issue)생성
 - 정적 페이지에서 CD problems 테이블 추가  
 4. 문서화 작업  
